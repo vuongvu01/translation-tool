@@ -1,11 +1,11 @@
 /**
  * Do not edit directly
- * Generated on Tue, 06 Sep 2022 15:20:58 GMT
+ * Generated on Tue, 06 Sep 2022 15:28:54 GMT
  */
 
 export const AliasColorInteractionDisabled = "#BBD1F2";
 export const AliasColorTextDisabled = "#A3A3A3";
-export const AliasColorAlertDanger = "#E5434A";
+export const AliasColorAlertDanger = "#F7C9CB";
 export const AliasColorAlertSuccess = "#C9E9AB";
 export const AliasColorAlertWarning = "#FDEBB2";
 export const CoreColorBlue10 = "#BBD1F2";
