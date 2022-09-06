@@ -1,15 +1,32 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import React from "react";
+import ReactDOM from "react-dom/client";
+import "./index.css";
+import App from "./App";
+import reportWebVitals from "./reportWebVitals";
+import { FontLoader } from "@deliveryhero/armor";
+import { ThemeProvider, makeTheme } from "@deliveryhero/armor-system";
+import { AliasColorAlertDanger } from "./tokens/js/tokens";
 
 const root = ReactDOM.createRoot(
-  document.getElementById('root') as HTMLElement
+  document.getElementById("root") as HTMLElement
 );
+
+const theme = makeTheme({
+  armor: {
+    color: {
+      primary: {
+        "07": AliasColorAlertDanger,
+      },
+    },
+  },
+});
+
 root.render(
   <React.StrictMode>
-    <App />
+    <FontLoader />
+    <ThemeProvider theme={theme}>
+      <App />
+    </ThemeProvider>
   </React.StrictMode>
 );
 
