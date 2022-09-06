@@ -1,1 +1,78 @@
-{}
+{
+  "alias": {
+    "color": {
+      "interaction": {
+        "disabled": {
+          "value": "#BBD1F2",
+          "type": "color"
+        }
+      },
+      "text": {
+        "disabled": {
+          "value": "#A3A3A3",
+          "type": "color"
+        }
+      },
+      "alert": {
+        "danger": {
+          "value": "#F7C9CB",
+          "type": "color"
+        },
+        "success": {
+          "value": "#C9E9AB",
+          "type": "color"
+        },
+        "warning": {
+          "value": "#FDEBB2",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "core": {
+    "color": {
+      "blue": {
+        "10": {
+          "value": "#BBD1F2",
+          "type": "color"
+        },
+        "60": {
+          "value": "#1C5ECE",
+          "type": "color"
+        }
+      },
+      "grey": {
+        "30": {
+          "value": "#A3A3A3",
+          "type": "color"
+        },
+        "90": {
+          "value": "#161616",
+          "type": "color"
+        }
+      },
+      "red": {
+        "10": {
+          "value": "#F7C9CB",
+          "type": "color"
+        },
+        "60": {
+          "value": "#E5434A",
+          "type": "color"
+        }
+      },
+      "green": {
+        "20": {
+          "value": "#C9E9AB",
+          "type": "color"
+        }
+      },
+      "yellow": {
+        "10": {
+          "value": "#FDEBB2",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

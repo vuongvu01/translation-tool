@@ -1,9 +1,8 @@
 /**
  * Do not edit directly
- * Generated on Tue, 06 Sep 2022 13:42:02 GMT
+ * Generated on Tue, 06 Sep 2022 14:15:11 GMT
  */
 
-export const AliasTest = "#F7C9CB";
 export const AliasColorInteractionDisabled = "#BBD1F2";
 export const AliasColorTextDisabled = "#A3A3A3";
 export const AliasColorAlertDanger = "#F7C9CB";
