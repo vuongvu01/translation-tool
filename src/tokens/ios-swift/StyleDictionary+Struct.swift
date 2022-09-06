@@ -4,13 +4,13 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 06 Sep 2022 15:12:54 GMT
+// Generated on Tue, 06 Sep 2022 15:15:21 GMT
 
 
 import UIKit
 
 internal struct StyleDictionaryStruct {
-    internal static let aliasColorAlertDanger = #E5434A
+    internal static let aliasColorAlertDanger = #F7C9CB
     internal static let aliasColorAlertSuccess = #C9E9AB
     internal static let aliasColorAlertWarning = #FDEBB2
     internal static let aliasColorInteractionDisabled = #BBD1F2

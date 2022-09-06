@@ -15,7 +15,7 @@
       },
       "alert": {
         "danger": {
-          "value": "#E5434A",
+          "value": "#F7C9CB",
           "type": "color"
         },
         "success": {
