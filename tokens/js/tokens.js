@@ -1,8 +1,14 @@
 /**
  * Do not edit directly
- * Generated on Tue, 06 Sep 2022 12:54:21 GMT
+ * Generated on Tue, 06 Sep 2022 13:42:02 GMT
  */
 
+export const AliasTest = "#F7C9CB";
+export const AliasColorInteractionDisabled = "#BBD1F2";
+export const AliasColorTextDisabled = "#A3A3A3";
+export const AliasColorAlertDanger = "#F7C9CB";
+export const AliasColorAlertSuccess = "#C9E9AB";
+export const AliasColorAlertWarning = "#FDEBB2";
 export const CoreColorBlue10 = "#BBD1F2";
 export const CoreColorBlue60 = "#1C5ECE";
 export const CoreColorGrey30 = "#A3A3A3";
@@ -11,8 +17,3 @@ export const CoreColorRed10 = "#F7C9CB";
 export const CoreColorRed60 = "#E5434A";
 export const CoreColorGreen20 = "#C9E9AB";
 export const CoreColorYellow10 = "#FDEBB2";
-export const AliasColorInteractionDisabled = "#BBD1F2";
-export const AliasColorTextDisabled = "#A3A3A3";
-export const AliasColorAlertDanger = "#F7C9CB";
-export const AliasColorAlertSuccess = "#C9E9AB";
-export const AliasColorAlertWarning = "#FDEBB2";

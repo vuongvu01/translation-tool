@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 06 Sep 2022 12:54:21 GMT
+// Generated on Tue, 06 Sep 2022 13:42:02 GMT
 
 
 import UIKit
@@ -15,6 +15,7 @@ public enum StyleDictionaryEnum {
     public static let aliasColorAlertWarning = #FDEBB2
     public static let aliasColorInteractionDisabled = #BBD1F2
     public static let aliasColorTextDisabled = #A3A3A3
+    public static let aliasTest = #F7C9CB
     public static let coreColorBlue10 = #BBD1F2
     public static let coreColorBlue60 = #1C5ECE
     public static let coreColorGreen20 = #C9E9AB
