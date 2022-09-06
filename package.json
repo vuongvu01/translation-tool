@@ -24,7 +24,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "build-tokens": "token-transformer tokens.json tokens-transformed.json Core,Alias & style-dictionary build"
+    "transform-tokens": "token-transformer tokens.json tokens-transformed.json Core,Alias",
+    "build-tokens": "npm run transform-tokens & style-dictionary build"
   },
   "eslintConfig": {
     "extends": [

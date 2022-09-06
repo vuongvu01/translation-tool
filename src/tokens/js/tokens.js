@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 06 Sep 2022 15:28:54 GMT
+ * Generated on Tue, 06 Sep 2022 23:32:06 GMT
  */
 
 export const AliasColorInteractionDisabled = "#BBD1F2";
