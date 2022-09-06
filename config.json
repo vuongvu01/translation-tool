@@ -13,7 +13,7 @@
     },
     "css": {
       "transformGroup": "css",
-      "buildPath": "tokens/css/",
+      "buildPath": "src/tokens/css/",
       "files": [
         {
           "destination": "_variables.css",
@@ -23,7 +23,7 @@
     },
     "android": {
       "transformGroup": "android",
-      "buildPath": "tokens/android/",
+      "buildPath": "src/tokens/android/",
       "files": [
         {
           "destination": "font_dimens.xml",
@@ -37,7 +37,7 @@
     },
     "compose": {
       "transformGroup": "compose",
-      "buildPath": "tokens/compose/",
+      "buildPath": "src/tokens/compose/",
       "files": [
         {
           "destination": "StyleDictionaryColor.kt",
@@ -66,7 +66,7 @@
     },
     "ios": {
       "transformGroup": "ios",
-      "buildPath": "tokens/ios/",
+      "buildPath": "src/tokens/ios/",
       "files": [
         {
           "destination": "StyleDictionaryColor.h",
@@ -116,7 +116,7 @@
     },
     "ios-swift": {
       "transformGroup": "ios-swift",
-      "buildPath": "tokens/ios-swift/",
+      "buildPath": "src/tokens/ios-swift/",
       "files": [
         {
           "destination": "StyleDictionary+Class.swift",
@@ -145,7 +145,7 @@
     },
     "ios-swift-separate-enums": {
       "transformGroup": "ios-swift-separate",
-      "buildPath": "tokens/ios-swift/",
+      "buildPath": "src/tokens/ios-swift/",
       "files": [
         {
           "destination": "StyleDictionaryColor.swift",
@@ -171,7 +171,7 @@
     },
     "js": {
       "transformGroup": "js",
-      "buildPath": "tokens/js/",
+      "buildPath": "src/tokens/js/",
       "files": [
         {
           "format": "javascript/es6",
